@@ -30,8 +30,8 @@ html {
 }
 
 .bgimg-2 {
-    background-image: url("../image/aaa.jpg");
-    min-height: 400px;
+    background-image: url("../image/bbb.jpg");
+    min-height: 100%;
 }
 
 .caption {
